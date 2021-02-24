@@ -7,7 +7,7 @@ p {
     padding-bottom: 15px
 }
 
-.photo (
+.photo {
     position: relative;
     line-height: 0;
     margin-bottom: 2em;
@@ -17,14 +17,14 @@ p {
     border: 1px solid #021a40;
     background-color: #ff0;
     box-shadow: 2px 2px 10px rgba (0,0,0,0.7);
-)
+}
 
-.photo-container (
+.photo-container {
     text-align: center;
     margin: 15px auto;
     width: 300px;
     height: 169px;
-)
+}
 
 .photo-container img {
     max-width: 100%;
@@ -46,12 +46,12 @@ p {
     background: rgba (0,0,0, .5);
 }
 
-.white-head (
+.white-head {
     color: #C9BDAA;
     margin-top: 5%;
     line-height: 30px;
     padding-bottom: 20px
-)
+}
 /* -------------------------------------
 PHOTO OVERLAY TRANSITIONS
 ----------------------------------------*/
@@ -69,10 +69,10 @@ PHOTO OVERLAY TRANSITIONS
 .photo-overlay:hover {
     opacity: 1;
 }
-.photo img (
+.photo img {
     transition: transform .5a;
     transform-origin: 50% 50%;
-)
+}
 .photo:hover img{
     transform: scale(1.1);
 }
