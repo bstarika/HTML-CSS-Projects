@@ -1,5 +1,4 @@
-# HTML-CSS-Projects
-This repository will showcase skills in front-end development through The Tech Academy 
+Projects completed through The Tech Academy's HTML and CSS Course:
 <br>
 <br>Projects include:
 <ul>
